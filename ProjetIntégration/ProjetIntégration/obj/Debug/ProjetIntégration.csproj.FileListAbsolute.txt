@@ -1,0 +1,9 @@
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\bin\Debug\ProjetIntégration.exe.config
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\bin\Debug\ProjetIntégration.exe
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\bin\Debug\ProjetIntégration.pdb
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.csprojResolveAssemblyReference.cache
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.Form1.resources
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.Properties.Resources.resources
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.csproj.GenerateResource.Cache
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.exe
+c:\users\sarah\onedrive\documents\visual studio 2015\Projects\ProjetIntégration\ProjetIntégration\obj\Debug\ProjetIntégration.pdb
